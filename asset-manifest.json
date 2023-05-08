@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ado-fan-site/static/css/main.c86fc62b.css",
+    "main.js": "/ado-fan-site/static/js/main.577181ff.js",
+    "static/media/Ado-GiraGira.mp3": "/ado-fan-site/static/media/Ado-GiraGira.04c136435442e419ea31.mp3",
+    "static/media/Ado-Backlight.mp3": "/ado-fan-site/static/media/Ado-Backlight.fa99fb0471ed488ee82f.mp3",
+    "static/media/Ado-Readymade.mp3": "/ado-fan-site/static/media/Ado-Readymade.da041d3252fbd6524ea5.mp3",
+    "static/media/Ado-NewGenesis.mp3": "/ado-fan-site/static/media/Ado-NewGenesis.fce089c3ff5e68f5c4c1.mp3",
+    "static/media/Ado-Odo.mp3": "/ado-fan-site/static/media/Ado-Odo.e61ebbb1fc88e812080e.mp3",
+    "static/media/Ado-Usseewa.mp3": "/ado-fan-site/static/media/Ado-Usseewa.5afdc7792dbf58bde3fd.mp3",
+    "static/media/Ado-YoruNoPierrot.mp3": "/ado-fan-site/static/media/Ado-YoruNoPierrot.539e2c3316c48dbf390b.mp3",
+    "static/media/Ado-AshuraChan.mp3": "/ado-fan-site/static/media/Ado-AshuraChan.5d844715c7f8d646ec2f.mp3",
+    "static/media/Ado-Controversial.mp3": "/ado-fan-site/static/media/Ado-Controversial.55170398473176ae1f9d.mp3",
+    "static/media/ado.jpg": "/ado-fan-site/static/media/ado.aacb409eaf4a8cb2e5e7.jpg",
+    "static/media/music.jpg": "/ado-fan-site/static/media/music.bdef9f2bccc9736ece56.jpg",
+    "static/media/odo-image.png": "/ado-fan-site/static/media/odo-image.95385b9b45fab4c05691.png",
+    "static/media/ahura-image.png": "/ado-fan-site/static/media/ahura-image.cc4e14f38f27238f2f30.png",
+    "static/media/newgenesis-image.jpg": "/ado-fan-site/static/media/newgenesis-image.352721b1db24e11b6cb3.jpg",
+    "static/media/controversy-image.jpg": "/ado-fan-site/static/media/controversy-image.b8af2b4354b4d6236c9d.jpg",
+    "static/media/giragira-image.jpg": "/ado-fan-site/static/media/giragira-image.6c115b030cd569db3394.jpg",
+    "static/media/backlight-image.jpg": "/ado-fan-site/static/media/backlight-image.effc7dee07f654d7f106.jpg",
+    "static/media/yoru-image.jpg": "/ado-fan-site/static/media/yoru-image.1b05c7817608181a1996.jpg",
+    "static/media/readymade-image.jpg": "/ado-fan-site/static/media/readymade-image.119def395a1719edd67d.jpg",
+    "static/media/adobio.jpg": "/ado-fan-site/static/media/adobio.b4388744f056228e91ff.jpg",
+    "static/media/usseewa-pic.jpg": "/ado-fan-site/static/media/usseewa-pic.ff72df5aaad9f8827967.jpg",
+    "index.html": "/ado-fan-site/index.html",
+    "main.c86fc62b.css.map": "/ado-fan-site/static/css/main.c86fc62b.css.map",
+    "main.577181ff.js.map": "/ado-fan-site/static/js/main.577181ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86fc62b.css",
+    "static/js/main.577181ff.js"
+  ]
+}
