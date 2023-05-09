@@ -60,24 +60,24 @@ const AudioPlayer = ({song, image, title}) => {
     setCurrentTime(progressBar.current.value);
   }
 
-  const backThirty = () => {
-    progressBar.current.value = Number(progressBar.current.value) -30;
+  const backTen = () => {
+    progressBar.current.value = Number(progressBar.current.value) -10;
     changeRange();
   }
   
-  const forwardThirty = () => {
-    progressBar.current.value = Number(progressBar.current.value) + 30;
+  const forwardTen = () => {
+    progressBar.current.value = Number(progressBar.current.value) + 10;
     changeRange();
   }
 
   return (
-    <div className = "bg-white justify-items-center w-full md:w-1/4 lg:m-5 my-4 rounded-xl overflow-hidden">
+    <div className = "bg-white justify-items-center w-2/3 lg:w-1/4 lg:m-5 my-4 rounded-xl overflow-hidden">
         <img src= {image} alt="No image read"/>
         <audio ref={audioPlayer} src = {song} preload = "metadata"></audio>
         <div className="flex justify-center -translate-y-7">
-          <button onClick={backThirty} className = "bg-white border-0 text-2xl rounded-l-lg px-2 pt-1"><GrRotateLeft /></button>
+          <button onClick={backTen} className = "bg-white border-0 text-2xl rounded-l-lg px-2 pt-1"><GrRotateLeft /></button>
           <button className = "bg-white border-0 text-6xl pt-1" onClick={togglePlayPause}> { isPlaying ? <FaPauseCircle/>:<FaPlayCircle /> }</button>
-          <button onClick = {forwardThirty} className = "bg-white border-0 text-2xl rounded-r-lg px-2 pt-1"><GrRotateRight /></button>
+          <button onClick = {forwardTen} className = "bg-white border-0 text-2xl rounded-r-lg px-2 pt-1"><GrRotateRight /></button>
         </div>
         <div className='flex justify-center text-2xl font-thin mx-3 mb-2 font-display'>
           {title}
