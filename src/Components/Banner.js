@@ -3,7 +3,7 @@ import ado from '../Assets/Images/ado.jpg'
 
 const Banner = () => {
   return (
-    <div id='home' className="w-full overflow-hidden mb-12 relative opacity-90">
+    <div id='home' className="w-full overflow-hidden mb-8 lg:mb-16 relative opacity-90">
             <img src = {ado} alt="No image loaded" ></img>
             <div className='absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-5xl lg:text-8xl font-display font-bold p-4'>Ado</div>
             <div className='text-2xl lg:text-7xl font-light font-instrument text-white'>

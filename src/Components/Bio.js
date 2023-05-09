@@ -4,7 +4,7 @@ import bioPic from '../Assets/Images/bio-pic.jpg'
 
 const Bio = () => {
   return (
-    <div id='bio' className='p-2 mx-3 text-white'>
+    <div id='bio' className='text-white'>
       <div className='relative my-10'>
         <img className='opacity-60' src={bioPic} alt='no image loaded'></img>
         <h1 className='absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center text-9xl font-bold font-instrument p-4'>Bio</h1>
