@@ -8,7 +8,7 @@ const Music = () => {
     <div id='music' className='my-8'>
         <div className='relative'>
             <img className='opacity-70' src={adomusic} alt='No image loaded' />
-            <h1 className='absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-5xl lg:text-9xl font-display font-bold p-4'>Music</h1>
+            <h1 className='absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-5xl lg:text-9xl font-instrument font-bold p-4'>Music</h1>
         </div>
         <div className='lg:flex grid justify-items-center lg:flex-row md:justify-center flex-wrap my-8'>
             {topSongs.map((song) => (
