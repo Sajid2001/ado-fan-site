@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ado-fan-site/static/css/main.263e20c0.css",
-    "main.js": "/ado-fan-site/static/js/main.b808a227.js",
+    "main.css": "/ado-fan-site/static/css/main.11c0b836.css",
+    "main.js": "/ado-fan-site/static/js/main.4cde4565.js",
     "static/media/Ado-GiraGira.mp3": "/ado-fan-site/static/media/Ado-GiraGira.04c136435442e419ea31.mp3",
     "static/media/Ado-Backlight.mp3": "/ado-fan-site/static/media/Ado-Backlight.fa99fb0471ed488ee82f.mp3",
     "static/media/Ado-Readymade.mp3": "/ado-fan-site/static/media/Ado-Readymade.da041d3252fbd6524ea5.mp3",
@@ -25,11 +25,11 @@
     "static/media/adobio.jpg": "/ado-fan-site/static/media/adobio.b4388744f056228e91ff.jpg",
     "static/media/usseewa-pic.jpg": "/ado-fan-site/static/media/usseewa-pic.ff72df5aaad9f8827967.jpg",
     "index.html": "/ado-fan-site/index.html",
-    "main.263e20c0.css.map": "/ado-fan-site/static/css/main.263e20c0.css.map",
-    "main.b808a227.js.map": "/ado-fan-site/static/js/main.b808a227.js.map"
+    "main.11c0b836.css.map": "/ado-fan-site/static/css/main.11c0b836.css.map",
+    "main.4cde4565.js.map": "/ado-fan-site/static/js/main.4cde4565.js.map"
   },
   "entrypoints": [
-    "static/css/main.263e20c0.css",
-    "static/js/main.b808a227.js"
+    "static/css/main.11c0b836.css",
+    "static/js/main.4cde4565.js"
   ]
 }
