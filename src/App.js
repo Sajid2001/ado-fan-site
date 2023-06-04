@@ -1,12 +1,12 @@
-import Banner from "./Components/Banner";
 import Bio from "./Components/Bio";
 import Footer from "./Components/Footer";
+import Hero from "./Components/Hero";
 import Music from "./Components/Music";
 
 function App() {
   return (
     <div className="bg-black">
-      <Banner/>
+      <Hero/>
       <Bio/>
       <Music/>
       <Footer/>

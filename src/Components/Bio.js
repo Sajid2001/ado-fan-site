@@ -6,11 +6,11 @@ const Bio = () => {
   return (
     <div id='bio' className='text-white'>
       <div className='relative my-10'>
-        <img className='opacity-60' src={bioPic} alt='no image loaded'></img>
+        <img className='opacity-60' src={bioPic} alt='Ado'></img>
         <h1 className='absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center md:text-9xl text-7xl font-bold font-instrument p-4'>Bio</h1>
       </div>
-        <div className='flex flex-col md:flex-row justify-center m-3 items-center'>
-            <img className="rounded-3xl w-full md:w-1/3" src={adobio} alt='No Image'/>
+        <div className='flex flex-col md:flex-row justify-center m-6 items-center'>
+            <img className="rounded-3xl w-full md:w-1/2" src={adobio} alt='Ado'/>
             <div className='mx-5 my-3'> 
                 <p className="p-2 text-lg align-baseline font-display">
                 Ado (born October 24, 2002 in Tokyo, Japan) is a Japanese singer and Utaite and is considered to be one of the most promising and popular young singers in Japan right now. In 2020, at the age of 17, she made her debut with the digital single titled Usseewa. The song peaked at number 1 on Billboard Japan Hot 100, Oricon Digital Singles Chart, Oricon Streaming Chart, and Spotify Viral 50 Japan. The music video of the song on her YouTube channel reached 100 million views in 148 days after its release. Reaching 100 million plays on Billboard Japan after 17 weeks from charting-in was the sixth fastest in history and the youngest for a solo singer.
